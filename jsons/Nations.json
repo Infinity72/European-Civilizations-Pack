@@ -34,5 +34,83 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	},
+
+	//Italie
+
+	{
+		"name": "Italie",
+		"leaderName": "Carvour",
+		"adjective": ["Italien"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Benvenuti! Les arts, les sciences et le commerce floriront sous notre banière",
+		
+		"declaringWar": "Il est temps de recréer notre empire !",
+		"attacked": "Vous osez attaquer le descendant de Rome ?",
+		"defeated": "C'est le début d'un age sombre.",
+		"introduction": "Nous sommes fier de notre glorieux passé, voulez vous contiuer l'avenir avec nous ?",
+		
+		"neutralHello": "L'Italie vous acceuil les bras ouvert et l'esprit vigilant.",
+		"neutralLetsHearIt": ["Qu'avez vous a dire ?","Nous vous écoutons"],
+		"neutralNo": ["C'est impossible""Nous refuson !","Non!"],
+		"neutralYes": ["Très bien","Oui"],
+
+		"hateHello": "Encore vous ? Réglons nos affaires rapidement.",
+		"hateLetsHearIt": ["Que voulez vous encore ?"],
+		"hateNo": ["Nous refusons.","Il n'y a pas d'accord."],
+		"hateYes": ["Ne nous faites pas regretter cela...","Nous acceptons, pour le moment..."],
+		
+		"afterPeace": "Le calme revient, comme le calme après les folies du Tibre.",
+		"tradeRequest": "Une proposition du peuple italien, élégante et profitable.",
+
+		"outerColor": [0,100,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "République maritime",
+		"uniques": ["[-25]% maintenance costs <for [Water] units>","[+1 Gold] from each Trade Route", "[+100]% [Silk] resource production"],
+		"cities": ["Rome", "Florence", "Venice", "Milan", "Naples", "Genoa", "Turin", "Palermo", "Bologna", "Verona",
+   			   "Pisa", "Siena", "Trieste", "Parma", "Modena", "Ravenna", "Padua", "Mantua", "Bari", "Lecce",
+   			   "Cagliari", "Messina", "Reggio Calabria", "Perugia", "Taranto", "Como", "Ancona", "Trento", "Bolzano", "La Spezia"
+ 			]
+	},
+	
+	//France 
+
+	{
+		"name": "France (Aliénor)",
+		"leaderName": "Aliénor d'Aquitaine",
+		"startBias": ["Grassland", "River"],
+		"adjective": ["Français"],
+		"preferredVictoryType": "Cultural",
+
+        "startIntroPart1": "Bonjour, noble visiteur. Les cours de France attendent votre éclat.",
+        "startIntroPart2": "Sous la grâce d’Aliénor, les arts fleurissent et les villes s’élèvent. Que notre chant résonne à travers les siècles.",
+
+        "declaringWar": "Qu’il en soit ainsi — nous verrons quelle culture survivra à cette guerre.",
+		"attacked": "Quelle vulgarité. Mais sachez que notre élégance ne manque pas de force.",
+		"defeated": "Même vaincue, la France demeure éternelle. L’histoire se souviendra de nous avec noblesse.",
+		"introduction": "Bienvenue à la cour de France. Que votre présence soit aussi raffinée que notre poésie.",
+		"neutralHello": "La France vous salue avec courtoisie — pour l’instant.",
+		"hateHello": "Encore vous ? Faites vite.",
+		"tradeRequest": "Élaborons un accord aussi harmonieux qu’une chanson de geste.",
+
+      	"outerColor": [33, 26, 106],
+	"innerColor": [255, 255, 255],
+ 	 "uniqueName": "Amour Culturel",
+	"uniques": ["[+2 Culture] from every [Amphitheater]","[+2 Culture] in cities that have a [Wonder]"]
+ 	 "cities": [
+  		 "Paris", "Bordeaux", "Toulouse", "Orléans", "Poitiers", "Lyon", "Marseille", "Reims", "Dijon", "Tours",
+   		 "Avignon", "Nancy", "Limoges", "Rouen", "Caen", "Angers", "Bayonne", "Chartres", "Clermont", "Amiens",
+  		 "Strasbourg", "Nice", "Versailles", "Nîmes", "Perpignan", "La Rochelle", "Grenoble", "Metz", "Pau", "Carcassonne"
+ 		 ],	
+        "spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
+    	},
+	
+	//Suisse 
+	//Belgique
+	//Portugal
+	//écosse 
+	//irlande
+	
 ]
