@@ -108,6 +108,48 @@
     	},
 	
 	//Suisse 
+
+	{
+ 		 "name": "Suisse",
+		  "leaderName": "Nicolas de Flue",
+ 		 "adjective": ["suisse"],
+ 		 "startBias": ["Hill", "Mountain"],
+ 		 "preferredVictoryType": "Diplomatic",
+
+		  "startIntroPart1": "Bienvenue au cœur de l'Europe. Notre force réside dans la paix, la prudence et la prospérité.",
+ 		 "startIntroPart2": "Guidés par la neutralité, nous prospérerons grâce à la montagne, au commerce et à la diplomatie directe.",
+
+		  "declaringWar": "La paix est rompue… nous vous répondrons avec précision et discipline.",
+ 		 "attacked": "Nous ne cherchons pas la guerre. Mais nous savons la faire.",
+ 		 "defeated": "Même tombée, la Suisse résistera en silence. Nous reconstruirons, pierre par pierre.",
+ 		 "introduction": "Nous sommes les gardiens des Alpes. Marchands, soldats, diplomates — mais jamais envahisseurs.",
+
+ 		 "neutralHello": "La Suisse vous salue avec neutralité et respect.",
+		  "neutralLetsHearIt": ["Exposez vos intentions.","Nous vous écoutons.","Parlez."],
+		  "neutralNo": ["Nous devons refuser.","Non, dans l’intérêt commun.","Ce n’est pas acceptable."],
+		  "neutralYes": ["Nous acceptons.","Un accord équilibré.","Cela convient."],
+		
+		"hateHello": "Nous ne souhaitions pas en arriver là.",
+ 		 "hateLetsHearIt": ["Que voulez-vous ?","Allez-y.","Expliquez-vous."],
+ 		 "hateNo": ["Hors de question.","Nous rejetons cela.","Non."],
+ 		 "hateYes": ["Très bien.","Accepté.","Nous cédons pour la stabilité."],
+
+		  "afterPeace": "C’est une sage décision. Le monde est déjà assez divisé.",
+		  "tradeRequest": "Une proposition commerciale juste et durable — comme il se doit.",
+
+		  "outerColor": [200, 0, 0],
+		  "innerColor": [255, 255, 255],
+		  "uniqueName": "République alpine",
+		  "unique": ["[+1 Gold] from every [City-State you are friends with]",
+    			"Units receive [+25% Combat Strength] when fighting in [Hills] or [Mountains]",
+   			 "[+2 Production] from [Mines] built on [Hills]"]
+		  "cities": [
+ 		   "Berne", "Genève", "Zurich", "Lausanne", "Bâle", "Lucerne", "Fribourg", "Neuchâtel", "Sion", "Saint-Gall",
+ 		   "Lugano", "Winterthour", "Bienne", "Coire", "Schaffhouse", "Zoug", "Yverdon", "Delémont", "Thoune", "Appenzell"
+ 			    ]
+	},
+
+	
 	//Belgique
 	//Portugal
 	//écosse 
